@@ -1,0 +1,5 @@
+# PARAMETRAGE POUR APACHE
+# FICHIER .htaccess
+
+# IL FAUT BLOQUER L'ACCES A CE DOSSIER
+Require all denied
