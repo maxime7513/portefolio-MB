@@ -19,17 +19,7 @@
     <!-- GOOGLE FONTS -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Alice&display=swap" rel="stylesheet">
-        <div class="loader">
-            <span>{</span><img src="assets/img/bm18.png" alt=""><span>}</span>
-        </div>
-        <div class="container-slider">
-            <ol>
-                <li class="slider slider-mobile visible"></li>
-                <li class="slider slider-mobile"></li>
-                <li class="slider slider-mobile"></li>
-                <li class="slider"></li>
-            </ol>
-        <div class="opacity--bg"></div>
+    <body>
         <header id="navbar">
             <nav class="header__nav d--flex flex--row jc--ce">
                 <a href="#diplome">Diplômes</a>
@@ -55,3 +45,4 @@
                 <a id="resaux-sociaux"href="https://www.linkedin.com/in/maxime-bln/"><i class="fab fa-linkedin-in rs"></i><i class="fab fa-instagram rs"></i></a>
             </div>
         </header>
+
