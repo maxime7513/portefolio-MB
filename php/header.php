@@ -6,9 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Maxime BLEUNVEN, développeur web junior. Présentation de mes compétences et de mon savoir-faire en tant que développeur web.">
     <meta property="og:image" content="http://www.maxime-bln.com/assets/img/imagesite.png"/>
-    <title>Maxime BLEUNVEN PortFolio</title>
+    <title>Portfolio de Maxime BLEUNVEN | Développeur Web Junior</title>
     <link rel="shortcut icon" href="./assets/img/favicon.ico"/> 
-
     <!-- RESET ET NORMALIZE -->
     <link rel="stylesheet" href="./assets/css/reset.css">
     <link rel="stylesheet" href="./assets/css/normalize.css">
