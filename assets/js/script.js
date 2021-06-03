@@ -206,15 +206,20 @@ $(window).scroll(function () {
     });
 
 // SLIDER SECTION MES REALISATIONS
-let slideshow_representation = document.querySelector('.slider_realisation');
-let src = slideshow_representation.getAttribute("src");
+let slideshow_representation1 = document.querySelector('.slider_realisation1');
+let slideshow_representation2 = document.querySelector('.slider_realisation2');
+let src1 = slideshow_representation1.getAttribute("src");
+let src2 = slideshow_representation2.getAttribute("src");
   setInterval(function() {
-      if(src == "./assets/img/site-MeetInMarseille.png"){
-      src = "./assets/img/site-MeetInMarseille2.png";
+      if(src1 == "./assets/img/site-AutoPlusService.png"){
+      src1 = "./assets/img/site-AutoPlusService2.png";
+      src2 = "./assets/img/site-MeetInMarseille2.png";
       }else {
-      src = "./assets/img/site-MeetInMarseille.png";
+      src1 = "./assets/img/site-AutoPlusService.png";
+      src2 = "./assets/img/site-MeetInMarseille.png";
       }
-      slideshow_representation.setAttribute("src", src);	
+      slideshow_representation1.setAttribute("src", src1);	
+      slideshow_representation2.setAttribute("src", src2);	
   },
   3000);  // 3s
 
