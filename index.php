@@ -7,4 +7,3 @@ require_once "php/section-competence.php";
 require_once "php/section-realisation.php"; 
 require_once "php/section-contact.php"; 
 require_once "php/footer.php";
-
