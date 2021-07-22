@@ -2,12 +2,12 @@
     <span>{</span><img src="assets/img/bm18.png" alt=""><span>}</span>
 </div>
 <div class="container-slider">
-    <ol>
+    <ul>
         <li class="slider slider-mobile visible"></li>
         <li class="slider slider-mobile"></li>
         <li class="slider slider-mobile"></li>
         <li class="slider"></li>
-    </ol>
+    </ul>
     <div class="opacity--bg"></div>
     <div class="presentation">
         <h2 id="voila">Maxime BLEUNVEN</h2>

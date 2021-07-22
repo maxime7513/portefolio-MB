@@ -44,7 +44,7 @@ $(function () {
   
   // SLIDER BACKGROUND
     var current = 0,
-    slides = document.getElementsByClassName("slider");
+    slides = document.getElementsByClassName("slider"),
     slidesMobile = document.getElementsByClassName("slider-mobile");
 
     setInterval(function() {
